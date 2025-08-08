@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Ruby on Rails**
 
-- 📫 You can reach out to me @ **laualfredb@gmail.com**
+- 📫 You can reach out to me at **laualfredb@gmail.com**
 
 - ⚡ Fun fact: **I love watching and talking about movies 😎🎥**
 
