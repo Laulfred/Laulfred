@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **URL Shortener in Go**
 
-- 🌱 I’m currently learning **Go, Ruby on Rails**
+- 🌱 I’m currently learning **Go** and **Ruby on Rails**
 
 - 📫 You can reach out to me at **laualfredb@gmail.com**
 
