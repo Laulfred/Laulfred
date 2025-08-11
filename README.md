@@ -1,10 +1,12 @@
 <h1 align="center">Hello!👋, I'm Alfred.</h1>
 <h3 align="center">A recent graduate from Rutgers University-New Brunswick with a passion for solving problems and building engaging experiences at the intersection of design and development!</h3>
 
-- 🔭 I’m currently working on a **URL Shortener in Go**
+- 🔭 I’m currently working on **Leetcode😮‍💨**
 
-- 🌱 I’m currently learning **Go** and **Ruby on Rails**
+- 🌱 I’m currently learning **Go**
 
+- ✔️ I recently created a **URL Shortener written in Go**
+  
 - 📫 You can reach out to me at **laualfredb@gmail.com**
 
 - ⚡ Fun fact: **I love watching and talking about movies 😎🎥**
