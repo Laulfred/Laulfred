@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Alfred.</h1>
-<h3 align="center">A recent graduate from Rutgers University-New Brunswick with a passion for solving problems and building engaging experiences at the intersection of design and development!</h3>
+<h3 align="center">A graduate from Rutgers University-New Brunswick with a passion for solving problems and building engaging experiences at the intersection of data, design, and development!</h3>
 
 - 🔭 I’m currently working on **my portfolio😮‍💨**
 
