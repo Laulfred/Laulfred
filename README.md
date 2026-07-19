@@ -1,15 +1,15 @@
 <h1 align="center">Hello!👋, I'm Alfred.</h1>
 <h3 align="center">A graduate from Rutgers University-New Brunswick with a passion for solving problems and building engaging experiences at the intersection of data, design, and development!</h3>
 
-- 🔭 I’m currently working on **my portfolio😮‍💨**
+- 🔭 I’m currently working on a **GitHub Engineering Analytics Platform😮‍💨**
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning about **Data Engineering**
 
 - ✔️ I recently created a **URL Shortener written in Go**
   
 - 📫 You can reach out to me at **laualfredb@gmail.com**
 
-- ⚡ Fun fact: **I love watching and talking about movies 😎🎥**
+- ⚡ Fun fact: **I love watching and talking about movies 😎🎥 Currently watching: ______**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
